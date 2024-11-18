@@ -1,5 +1,5 @@
 ## Automated Birthday Wishes Mailing Program
--This requires pre setiing of intended persons birthday and respective mail id's, so once it is run daily in local host or a cloud platfomr. Automatically send birthday wishes to them
+-This requires pre setting of intended persons birthday and respective mail id's, so once it is run daily in local host or a cloud platform. Automatically send birthday wishes to them
 
 ## Table of Contents
 - [birthday_info](#birthday.csv)
